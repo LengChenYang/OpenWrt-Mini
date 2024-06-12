@@ -25,6 +25,6 @@ echo "src-git mosdns https://github.com/sbwml/luci-app-mosdns.git;v5" >> "feeds.
 echo "src-git adguardhome https://github.com/kiddin9/openwrt-packages.git;master" >> "feeds.conf.default"
 
 # 8-添加 smartdns 插件
-echo "src-git adguardhome https://github.com/kiddin9/openwrt-packages.git;master" >> "feeds.conf.default"
+echo "src-git smartdns https://github.com/kiddin9/openwrt-packages.git;master" >> "feeds.conf.default"
 
 
